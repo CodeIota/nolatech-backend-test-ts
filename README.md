@@ -31,6 +31,12 @@ npm run dev
 ```
 
 This will start the server in development mode.
+
+### Swagger Path
+```bash
+localhost:port/api-docs
+```
+
 ## ⚙️ Configuration
 ### Database Configuration
 
